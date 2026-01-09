@@ -1,3 +1,10 @@
+#!/bin/bash
+# ============================================
+# Auditoría de Seguridad Avanzada en Linux (Bash)
+# Autor: Pablo Dengra
+# Fecha: $(date +"%Y-%m-%d")
+# ============================================
+
 #!/usr/bin/env bash
 set -euo pipefail
 
