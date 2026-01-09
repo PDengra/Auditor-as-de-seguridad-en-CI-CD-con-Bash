@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================
-# Auditoría de Seguridad Avanzada en Linux (Bash)
+# Auditoría de Seguridad CI/CD & Server
 # Autor: Pablo Dengra
 # Fecha: $(date +"%Y-%m-%d")
 # ============================================
